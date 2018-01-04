@@ -1,0 +1,2 @@
+# SoftKompjutingProjekat
+Projekat iz softa
